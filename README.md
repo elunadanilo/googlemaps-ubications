@@ -8,7 +8,7 @@ _Solo debes descargar el proyecto y abrir la página en un navegador.
 
 _Puedes ver un ejemplo de la página funcionando en:_
 
-* [GOOGLE MAPS API EXAMPLE](https://elunadanilo.github.io/googlemaps-geofence/)
+* [GOOGLE MAPS API EXAMPLE](https://elunadanilo.github.io/googlemaps-ubications/)
 
 
 
